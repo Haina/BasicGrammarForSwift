@@ -1,0 +1,2 @@
+# BasicGrammarForSwift
+swift exercises
